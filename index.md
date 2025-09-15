@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Trang ch?
+title: Trang chá»§
 ---
-Xin chào, dây là blog c?a tôi.
+Xin chÃ o, Ä‘Ã¢y lÃ  blog cá»§a tÃ´i.
